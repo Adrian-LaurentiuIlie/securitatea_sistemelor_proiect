@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{checkpoint}
+{Check Point Software Technologies}: A closer look at q3 2024: 75\% surge in cyber attacks worldwide. \url{https://blog.checkpoint.com/research/a-closer-look-at-q3-2024-75-surge-in-cyber-attacks-worldwide/} (2024), accessed: 2025-01-07
+
+\bibitem{mef}
+{Mobile Ecosystem Forum}: Global consumer trust report 2016. \url{https://mobileecosystemforum.com/programmes/personal-data/global-consumer-trust-report-2016/} (2016), accessed: 2025-01-07
+
+\bibitem{SHAW201944}
+Shaw, N., Sergueeva, K.: The non-monetary benefits of mobile commerce: Extending utaut2 with perceived value. International Journal of Information Management  \textbf{45},  44--55 (2019). \doi{https://doi.org/10.1016/j.ijinfomgt.2018.10.024}, \url{https://www.sciencedirect.com/science/article/pii/S0268401217310022}
+
+\bibitem{starbucks}
+{USA Today Tech}: Starbucks customers' mobile accounts breached by thieves. \url{https://eu.usatoday.com/story/tech/2015/05/15/starbucks-gift-card-hack/27370491/} (20015), accessed: 2025-01-08
+
+\end{thebibliography}
