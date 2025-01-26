@@ -1,16 +1,34 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
 
+\bibitem{androidstudio}
+{Android Developers}: Android studio release notes. \url{https://developer.android.com/studio/releases} (2024), accessed: 2025-01-08
+
+\bibitem{ashibani2020}
+Ashibani, Y., Mahmoud, Q.H.: A multi-feature user authentication model based on mobile app interactions. IEEE Access  \textbf{8},  96322--96339 (2020). \doi{10.1109/ACCESS.2020.2996233}
+
+\bibitem{brown2021}
+Brown, R., Bendiab, G., Shiaeles, S., Ghita, B.: A Novel Multimodal Biometric Authentication System Using Machine Learning and Blockchain, p. 31–46. Springer International Publishing (2021). \doi{10.1007/978-3-030-64758-2_3}, \url{http://dx.doi.org/10.1007/978-3-030-64758-2_3}
+
 \bibitem{checkpoint}
 {Check Point Software Technologies}: A closer look at q3 2024: 75\% surge in cyber attacks worldwide. \url{https://blog.checkpoint.com/research/a-closer-look-at-q3-2024-75-surge-in-cyber-attacks-worldwide/} (2024), accessed: 2025-01-07
+
+\bibitem{firebaseauth}
+{Firebase}: Firebase authentication. \url{https://firebase.google.com/docs/auth}, accessed: 2025-01-08
+
+\bibitem{googleoauth}
+{Google Developers}: Oauth 2.0 for mobile \& desktop apps. \url{https://developers.google.com/identity/protocols/oauth2/native-app}, accessed: 2025-01-08
+
+\bibitem{kunda2021}
+Kunda, D., Chishimba, M.: A survey of android mobile phone authentication schemes. Mobile Networks and Applications  \textbf{26}(6),  2558--2566 (Dec 2021). \doi{10.1007/s11036-018-1099-7}, \url{https://doi.org/10.1007/s11036-018-1099-7}
 
 \bibitem{mef}
 {Mobile Ecosystem Forum}: Global consumer trust report 2016. \url{https://mobileecosystemforum.com/programmes/personal-data/global-consumer-trust-report-2016/} (2016), accessed: 2025-01-07
 
 \bibitem{SHAW201944}
-Shaw, N., Sergueeva, K.: The non-monetary benefits of mobile commerce: Extending utaut2 with perceived value. International Journal of Information Management  \textbf{45},  44--55 (2019). \doi{https://doi.org/10.1016/j.ijinfomgt.2018.10.024}, \url{https://www.sciencedirect.com/science/article/pii/S0268401217310022}
+Shaw, N., Sergueeva, K.: The non-monetary benefits of mobile commerce: Extending utaut2 with perceived value. International Journal of Information Management  \textbf{45},  44--55 (2019). \doi{https://doi.org/10.1016/j.ijinfomgt.2018.10.024}
 
 \bibitem{starbucks}
 {USA Today Tech}: Starbucks customers' mobile accounts breached by thieves. \url{https://eu.usatoday.com/story/tech/2015/05/15/starbucks-gift-card-hack/27370491/} (20015), accessed: 2025-01-08

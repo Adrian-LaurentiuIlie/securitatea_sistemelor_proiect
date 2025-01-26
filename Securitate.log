@@ -1,41 +1,41 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.14)  21 JAN 2025 21:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  26 JAN 2025 19:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Adrian/Desktop/Securitate/Securitate.tex
-(c:/Users/Adrian/Desktop/Securitate/Securitate.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
-(c:/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
+**d:/Repos/securitatea_sistemelor_proiect/Securitate.tex
+(d:/Repos/securitatea_sistemelor_proiect/Securitate.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+(d:/texlive/2024/texmf-dist/tex/latex/llncs/llncs.cls
 Document Class: llncs 2024/10/21 v2.25 
  LaTeX document class for Lecture Notes in Computer Science
-(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(c:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+(d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(d:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count196
-\c@section=\count197
-\c@subsection=\count198
-\c@subsubsection=\count199
-\c@paragraph=\count266
-\c@subparagraph=\count267
-\c@figure=\count268
-\c@table=\count269
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-) (c:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count270
+) (d:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count268
 \mult@box=\box52
 \multicol@leftmargin=\dimen142
-\c@unbalance=\count271
-\c@collectmore=\count272
-\doublecol@number=\count273
-\multicoltolerance=\count274
-\multicolpretolerance=\count275
+\c@unbalance=\count269
+\c@collectmore=\count270
+\doublecol@number=\count271
+\multicoltolerance=\count272
+\multicolpretolerance=\count273
 \full@width=\dimen143
 \page@free=\dimen144
 \premulticols=\dimen145
@@ -86,19 +86,19 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\c@minrows=\count276
-\c@columnbadness=\count277
-\c@finalcolumnbadness=\count278
+\c@minrows=\count274
+\c@columnbadness=\count275
+\c@finalcolumnbadness=\count276
 \last@try=\dimen148
 \multicolovershoot=\dimen149
 \multicolundershoot=\dimen150
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
-\mc@col@check@num=\count279
-) (c:/texlive/2024/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+\mc@col@check@num=\count277
+) (d:/texlive/2024/texmf-dist/tex/latex/oberdiek/aliascnt.sty
 Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
 )
-\c@chapter=\count280
+\c@chapter=\count278
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 379.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 380.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 381.
@@ -121,11 +121,11 @@ LaTeX Info: Redefining \vec on input line 394.
 \tocparanum=\dimen158
 \tocparatotal=\dimen159
 \tocsubparanum=\dimen160
-\@tempcntc=\count281
+\@tempcntc=\count279
 \fnindent=\dimen161
-\c@@inst=\count282
-\c@@auth=\count283
-\c@auco=\count284
+\c@@inst=\count280
+\c@@auth=\count281
+\c@auco=\count282
 \instindent=\dimen162
 \authrun=\box98
 \authorrunning=\toks17
@@ -133,253 +133,307 @@ LaTeX Info: Redefining \vec on input line 394.
 \titrun=\box99
 \titlerunning=\toks19
 \toctitle=\toks20
-\c@theorem=\count285
-\c@case=\count286
-\c@conjecture=\count287
-\c@corollary=\count288
-\c@definition=\count289
-\c@example=\count290
-\c@exercise=\count291
-\c@lemma=\count292
-\c@note=\count293
-\c@problem=\count294
-\c@property=\count295
-\c@proposition=\count296
-\c@question=\count297
-\c@solution=\count298
-\c@remark=\count299
+\c@theorem=\count283
+\c@case=\count284
+\c@conjecture=\count285
+\c@corollary=\count286
+\c@definition=\count287
+\c@example=\count288
+\c@exercise=\count289
+\c@lemma=\count290
+\c@note=\count291
+\c@problem=\count292
+\c@property=\count293
+\c@proposition=\count294
+\c@question=\count295
+\c@solution=\count296
+\c@remark=\count297
 \headlineindent=\dimen163
-) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen164
 \Gin@req@width=\dimen165
-) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+) (d:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (d:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (d:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (d:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (d:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/10/20 v24.12 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count298
+\U@D=\dimen166
+\l@unhyphenated=\language89
+ (d:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count299
+ (d:/texlive/2024/texmf-dist/tex/generic/babel-romanian/romanian.ldf
+Language: romanian 2021/04/04 v1.2m Romanian support from the babel system
+)) (d:/texlive/2024/texmf-dist/tex/generic/babel/locale/ro/babel-romanian.tex
+Package babel Info: Importing font and identification data for romanian
+(babel)             from babel-ro.ini. Reported on input line 11.
+) (d:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count300
+\lst@gtempboxa=\box100
+\lst@token=\toks24
+\lst@length=\count301
+\lst@currlwidth=\dimen167
+\lst@column=\count302
+\lst@pos=\count303
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count304
+\lst@lineno=\count305
+\lst@maxwidth=\dimen170
+ (d:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (d:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count306
+\lst@skipnumbers=\count307
+\lst@framebox=\box101
+) (d:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count300
-\float@exts=\toks22
-\float@box=\box100
-\@float@everytoks=\toks23
-\@floatcapt=\box101
-) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+\c@float@type=\count308
+\float@exts=\toks25
+\float@box=\box102
+\@float@everytoks=\toks26
+\@floatcapt=\box103
+) (d:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (d:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+) (d:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
-\l__pdf_internal_box=\box102
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box104
 ) (./Securitate.aux)
 \openout1 = `Securitate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+ (d:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen166
-\scratchbox=\box103
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen167
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks25
-) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count310
+\scratchdimen=\dimen171
+\scratchbox=\box105
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen172
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks28
+) (d:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (d:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+\c@lstlisting=\count316
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 38.
+(Font)              <14.4> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 38.
+(Font)              <9> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
-
-Overfull \hbox (6.08849pt too wide) in paragraph at lines 41--47
-[]\T1/cmr/m/n/9 Rezumatul poate eviden[]ia importan[]a securit []ii în aplica[]iile
- []
-
-
-Overfull \hbox (9.46678pt too wide) in paragraph at lines 41--47
-\T1/cmr/m/n/9 prezentarea provoc rilor, metode-lor []i solu[]iilor mod-erne pen-tru se-curizarea
- []
-
-
-Overfull \hbox (37.88225pt too wide) in paragraph at lines 48--49
-\T1/cmr/bx/n/9 Keywords:\T1/cmr/m/n/9 Securitate ciber-net-ic  \TS1/cmr/m/n/9 · \T1/cmr/m/n/9 Aplica[]ii mo-bile \TS1/cmr/m/n/9 · \T1/cmr/m/n/9 Criptare \TS1/cmr/m/n/9 · \T1/cmr/m/n/9 Confiden[]ialitate. 
- []
-
-
-Overfull \hbox (6.42902pt too wide) in paragraph at lines 58--59
-\T1/cmr/m/n/10 ri-tatea aplica[]iilor mo-bile, s  dis-cute metodele ac-tuale de protec[]ie []i s  eviden[]ieze
- []
-
-
-Overfull \hbox (5.65143pt too wide) in paragraph at lines 63--64
-\T1/cmr/m/n/10 func[]ionalit []i []i de-sign, negli-jând in-te-grarea unor mecan-isme ro-buste de protec[]ie.
- []
-
-
+(Font)              <6> on input line 60.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
+ (d:/texlive/2024/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+{d:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 <checkpointGraf.png, id=17, 599.23875pt x 541.02126pt>
 File: checkpointGraf.png Graphic file (type png)
 <use checkpointGraf.png>
-Package pdftex.def Info: checkpointGraf.png  used on input line 74.
+Package pdftex.def Info: checkpointGraf.png  used on input line 85.
 (pdftex.def)             Requested size: 277.69987pt x 250.72198pt.
 
 
-[2 <./checkpointGraf.png>]
+[2]
 
-[3]
-Overfull \hbox (10.30028pt too wide) in paragraph at lines 102--103
-[]\T1/cmr/bx/n/10 Autentificare bio-met-rica: \T1/cmr/m/n/10 Uti-lizarea am-prentelor dig-i-tale sau a recunoa[]terii
- []
-
-
-Overfull \hbox (15.62122pt too wide) in paragraph at lines 107--108
-\T1/cmr/m/n/10 Literatura pune ac-cent pe con-for-mi-tatea aplica[]iilor cu re-gle-men-t rile interna[]ionale,
- []
-
-
+[3 <./checkpointGraf.png>]
 
 [4]
-Overfull \hbox (11.6222pt too wide) in paragraph at lines 121--126
-\T1/cmr/m/n/10 tru fiecare risc. Im-ple-mentarea solu[]iilor în aplica[]ie. Testarea []i val-i-darea securit []ii
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 127.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 127.
-
-Overfull \hbox (4.92938pt too wide) in paragraph at lines 131--132
-\T1/cmr/m/n/10 Protec[]ia datelor este re-al-izat  prin uti-lizarea unor tehnologii de criptare avansate.
- []
-
-
 
 [5]
-Overfull \hbox (3.01318pt too wide) in paragraph at lines 137--138
-\T1/cmr/m/n/10 Pentru a pro-teja aplica[]ia îm-potriva in-giner-iei in-verse, co-dul este ob-fus-cat folosind
+Overfull \hbox (6.21967pt too wide) in paragraph at lines 173--174
+[][][][][][][][][][][]  |
  []
 
 
-Overfull \hbox (19.98016pt too wide) in paragraph at lines 140--141
-\T1/cmr/m/n/10 cum OWASP ZAP, Burp Suite []i MobSF. Aceste teste in-clud anal-iza vulnerabilit []ilor
+Overfull \hbox (4.32996pt too wide) in paragraph at lines 174--175
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  |
  []
 
 
-Overfull \hbox (5.75555pt too wide) in paragraph at lines 148--150
-[]\T1/cmr/bx/n/10 Cum pro-te-jeaz  aplica[]ia datele uti-liza-toru-lui în tranzit []i în repaus?
- []
+Underfull \vbox (badness 1748) has occurred while \output is active []
 
 
 
 [6]
-Overfull \hbox (6.34937pt too wide) in paragraph at lines 164--165
-[]\T1/cmr/m/n/10 Prin r spun-surile la aceste în-tre-b ri de competen[] , putem evalua dac  solu[]iile
- []
-
-
-Overfull \hbox (3.82408pt too wide) in paragraph at lines 173--175
-[]\T1/cmr/bx/n/10 Autentificarea []i au-tor-izarea uti-liza-to-rilor: \T1/cmr/m/n/10 Im-ple-mentarea au-t-en-tific rii
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [7]
-Overfull \hbox (38.20319pt too wide) in paragraph at lines 195--197
-\T1/cmr/m/n/10 jori-tatea vec-to-rilor de atac, un-ele riscuri, pre-cum at-acurile in-terne sau vulnerabilit []ile
- []
-
-
-Overfull \hbox (22.0127pt too wide) in paragraph at lines 204--206
-[]\T1/cmr/bx/n/10 Conformitatea cu re-gle-men-t rile: \T1/cmr/m/n/10 Im-ple-mentarea re-gle-men-t rilor de protec[]ie
- []
-
-
 
 [8]
-Overfull \hbox (21.78638pt too wide) in paragraph at lines 216--217
-\T1/cmr/m/n/10 ate, cum ar fi protec[]ia îm-potriva at-acurilor avansate sau ges-tionarea vulnerabilit []ilor
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[10]
+
+[11]
+
+[12]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 462.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 462.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[13]
+
+[14] (./Securitate.bbl
+Underfull \hbox (badness 1552) in paragraph at lines 10--11
+\T1/cmr/m/n/9 sed on mo-bile app in-te-rac-tions. IEEE Ac-cess \T1/cmr/bx/n/9 8\T1/cmr/m/n/9 , 96322--96339 (2020). ht-
  []
 
-(./Securitate.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[]\T1/cmr/m/n/9 Mobile Ecosys-tem Fo-rum: Global con-sumer trust re-port 2016.
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-\T1/cmr/m/n/9 https://mobileecosystemforum.com/programmes/personal-data/global-consumer-
+Underfull \hbox (badness 6691) in paragraph at lines 16--17
+[]\T1/cmr/m/n/9 Check Po-int Software Te-ch-no-lo-gies: A clo-ser look at q3 2024: 75%
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[]\T1/cmr/m/n/9 USA To-day Tech: Star-bucks cus-tomers' mo-bile ac-counts breached by
+\T1/cmr/m/n/9 surge in cy-ber at-ta-cks worl-dwide. $https : / / blog . checkpoint . com / research /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-\T1/cmr/m/n/9 thieves. https://eu.usatoday.com/story/tech/2015/05/15/starbucks-gift-card-
+\T1/cmr/m/n/9 a-[]closer-[]look-[]at-[]q3-[]2024-[]75-[]surge-[]in-[]cyber-[]attacks-[]worldwide/$ (2024), ac-ces-
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 25--26
+[]\T1/cmr/m/n/9 Kunda, D., Chishimba, M.: A sur-vey of an-droid mo-bile phone au-
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 25--26
+\T1/cmr/m/n/9 then-ti-ca-tion sche-mes. Mo-bile Ne-tworks and Appli-ca-tions \T1/cmr/bx/n/9 26\T1/cmr/m/n/9 (6), 2558--2566
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]\T1/cmr/m/n/9 Mobile Eco-sys-tem Fo-rum: Glo-bal con-su-mer trust re-port 2016.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/cmr/m/n/9 https : / / mobileecosystemforum . com / programmes / personal-[]data /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]\T1/cmr/m/n/9 Shaw, N., Ser-gu-e-eva, K.: The non-monetary be-ne-fits of mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+\T1/cmr/m/n/9 bile co-m-merce: Ex-ten-ding utaut2 with per-cei-ved va-lue. In-ter-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+\T1/cmr/m/n/9 tio-nal Jo-ur-nal of In-for-ma-tion Ma-na-ge-ment \T1/cmr/bx/n/9 45\T1/cmr/m/n/9 , 44--55 (2019). ht-
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 34--35
+[]\T1/cmr/m/n/9 USA To-day Tech: Star-bu-cks cus-to-mers' mo-bile ac-co-unts bre-a-ched by thi-
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 34--35
+\T1/cmr/m/n/9 e-ves. $https : / / eu . usatoday . com / story / tech / 2015 / 05 / 15 / starbucks-[]gift-[]card-[]hack /
  []
 
 )
 
-[9] (./Securitate.aux)
+[15] (./Securitate.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2166 strings out of 473207
- 31639 string characters out of 5720461
- 448413 words of memory out of 5000000
- 25398 multiletter control sequences out of 15000+600000
- 577026 words of font info for 77 fonts, out of 8000000 for 9000
+ 5258 strings out of 473577
+ 79812 string characters out of 5732224
+ 725249 words of memory out of 5000000
+ 28096 multiletter control sequences out of 15000+600000
+ 576258 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,1137b,235s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0500.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0600.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on Securitate.pdf (9 pages, 219100 bytes).
+ 57i,8n,65p,1142b,1788s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0500.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0600.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on Securitate.pdf (15 pages, 255343 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
