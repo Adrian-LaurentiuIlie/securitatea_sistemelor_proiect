@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex Securitate"] 1737912955.58877 "Securitate.aux" "Securitate.bbl" "Securitate" 1737912958.28706 0
+["bibtex Securitate"] 1737913370.13833 "Securitate.aux" "Securitate.bbl" "Securitate" 1737913372.80487 0
   "./references.bib" 1737912954 3617 d1ce64d70ebdff3cc16018d9005da985 ""
-  "Securitate.aux" 1737912957 2539 60c5fa9baa9a81d1c3d5fc76802f2293 "pdflatex"
+  "Securitate.aux" 1737913371 2539 54f05f331dee3823f579ecbb7a5c0cbf "pdflatex"
   "d:/texlive/2024/texmf-dist/bibtex/bst/llncs/splncs04.bst" 1729786978 32146 aadf770ded437d161532035219ea6f45 ""
   (generated)
   "Securitate.bbl"
   "Securitate.blg"
   (rewritten before read)
-["pdflatex"] 1737912956.2056 "d:/Repos/securitatea_sistemelor_proiect/Securitate.tex" "Securitate.pdf" "Securitate" 1737912958.28746 0
-  "Securitate.aux" 1737912957 2539 60c5fa9baa9a81d1c3d5fc76802f2293 "pdflatex"
-  "Securitate.bbl" 1737912956 2340 3b5502512f153b0cada87894e6045f1d "bibtex Securitate"
-  "Securitate.tex" 1737912837 37497 99cfa9b1d0114ea908e0663beabcfdf1 ""
+["pdflatex"] 1737913370.65196 "d:/Repos/securitatea_sistemelor_proiect/Securitate.tex" "Securitate.pdf" "Securitate" 1737913372.80525 0
+  "Securitate.aux" 1737913371 2539 54f05f331dee3823f579ecbb7a5c0cbf "pdflatex"
+  "Securitate.bbl" 1737913370 2340 3b5502512f153b0cada87894e6045f1d "bibtex Securitate"
+  "Securitate.tex" 1737913367 37397 81a76fa12bd4426e0872593accb2e50c ""
   "checkpointGraf.png" 1737720334 4562 eb06d7df33188c7011954a37106b8b22 ""
-  "d:/Repos/securitatea_sistemelor_proiect/Securitate.tex" 1737912837 37497 99cfa9b1d0114ea908e0663beabcfdf1 ""
+  "d:/Repos/securitatea_sistemelor_proiect/Securitate.tex" 1737913367 37397 81a76fa12bd4426e0872593accb2e50c ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1729784190 2971 def0b6c1f0b107b3b936def894055589 ""
   "d:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1729784190 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1729785551 3524 cb3e574dea2d1052e39280babc910dc8 ""
